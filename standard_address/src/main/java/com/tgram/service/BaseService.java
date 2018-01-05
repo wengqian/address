@@ -1,0 +1,1 @@
+package com.tgram.service;/** * Created by wengqian on 2018/1/3. */public interface BaseService {}

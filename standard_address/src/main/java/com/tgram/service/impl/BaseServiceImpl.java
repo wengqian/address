@@ -1,0 +1,1 @@
+package com.tgram.service.impl;import com.tgram.service.BaseService;/** * Created by wengqian on 2018/1/3. */public class BaseServiceImpl implements BaseService {}
